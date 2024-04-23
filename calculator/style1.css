@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .image-container {
+    text-align: center;
+  }
+  
+  .description {
+    margin-top: 20px;
+  }
+  
+  .accomplishments,
+  .quotes {
+    margin-top: 40px;
+  }
+  
+  footer {
+    background-color:aqua;
+    color:fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  blockquote {
+    font-style: italic;
+    margin: 20px 0;
+  }
+  
+  blockquote footer {
+    font-style: normal;
+  }
+  
